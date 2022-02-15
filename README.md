@@ -3,23 +3,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/furkandadali/OrderManagement-With-CQRS">
     <img src="images/DuZCoWWUYAAoKpQ.jpeg">
   </a>
 
 <h3 align="center">OrderManagement-With-CQRS</h3>
 
   <p align="center">
-    project_description
+    This project developed on Mac OS - Visual Studio 2022 PRE version. I want to contribute Microsoft Team that's why I developed on new PRE version of VS. But in my opinion Windows is still best for developing .Net .. 😁
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/furkandadali/OrderManagement-With-CQRS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/furkandadali/OrderManagement-With-CQRS">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/furkandadali/OrderManagement-With-CQRS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/furkandadali/OrderManagement-With-CQRS/issues">Request Feature</a>
   </p>
 </div>
 
