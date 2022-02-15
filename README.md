@@ -33,7 +33,7 @@
     </tr>
 </table>
 
-Let me share a scenario with you before diving tropical part. I believe that when you imagine the issue in your mind, understand to complex things getting more easier. If your coffee is ready lets start.☕️
+Let me share a scenario with you before diving teorical part. I believe that when you imagine the issue in your mind, understand to complex things getting more easier. If your coffee is ready lets start.☕️
 
 
 STORY
