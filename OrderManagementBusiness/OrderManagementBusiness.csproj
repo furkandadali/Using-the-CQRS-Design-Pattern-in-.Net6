@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Handlers\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Handlers\CommandHandlers\" />
+    <None Remove="Handlers\QueryHandlers\" />
+    <None Remove="Interfaces\ICommandHandlers\" />
+    <None Remove="Interfaces\IQueryHandlers\" />
+    <None Remove="RequestModels\" />
+    <None Remove="ResponseModels\" />
+    <None Remove="RequestModels\CommandRequestModels\" />
+    <None Remove="RequestModels\QueryRequestModels\" />
+    <None Remove="ResponseModels\CommandRequestModels\" />
+    <None Remove="ResponseModels\QueryRequestModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Handlers\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Handlers\CommandHandlers\" />
+    <Folder Include="Handlers\QueryHandlers\" />
+    <Folder Include="Interfaces\ICommandHandlers\" />
+    <Folder Include="Interfaces\IQueryHandlers\" />
+    <Folder Include="RequestModels\" />
+    <Folder Include="ResponseModels\" />
+    <Folder Include="RequestModels\CommandRequestModels\" />
+    <Folder Include="RequestModels\QueryRequestModels\" />
+    <Folder Include="ResponseModels\CommandResponseModels\" />
+    <Folder Include="ResponseModels\QueryRequestModels\" />
+  </ItemGroup>
+</Project>

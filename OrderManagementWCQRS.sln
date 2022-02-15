@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementWCQRS", "OrderManagementWCQRS\OrderManagementWCQRS.csproj", "{32F01210-ABA0-4C0F-9050-6BA1FB7AF121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementBusiness", "OrderManagementBusiness\OrderManagementBusiness.csproj", "{15613B12-C6D0-4163-935C-2BC07ED6EE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F01210-ABA0-4C0F-9050-6BA1FB7AF121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F01210-ABA0-4C0F-9050-6BA1FB7AF121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F01210-ABA0-4C0F-9050-6BA1FB7AF121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F01210-ABA0-4C0F-9050-6BA1FB7AF121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15613B12-C6D0-4163-935C-2BC07ED6EE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15613B12-C6D0-4163-935C-2BC07ED6EE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15613B12-C6D0-4163-935C-2BC07ED6EE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15613B12-C6D0-4163-935C-2BC07ED6EE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2501B90-9FEE-43AB-B793-2D6A6602A364}
+	EndGlobalSection
+EndGlobal
